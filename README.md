@@ -5,7 +5,7 @@ I'm Bianca, an Industrial Engineer 👷‍♀️ diving into the world of Progra
 - Currently learning React & Django.  
   
 
-- Working in Accenture (https://www.accenture.com/ar-es)  
+- Working in Accenture (https://www.accenture.com/ar-es).  
   
 
 <br/>  
