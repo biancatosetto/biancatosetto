@@ -1,5 +1,5 @@
 # <div align="center">👋Hi Everyone!
-I'm Bianca, an Industrial Engineer 👷‍♀️ diving into the world of Programming 👩‍💻, and in my free time, a basketball player 🏀</div>  
+I'm Bianca, an Industrial Engineer 👷‍♀️ diving into the world of Programming 👩‍💻, and in my free time, I'm a basketball player 🏀</div>  
   
 
 - Currently learning React & Django.  
